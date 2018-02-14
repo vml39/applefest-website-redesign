@@ -22,7 +22,7 @@
   <title>Ithaca Apple Harvest 2017</title>
   <link rel="stylesheet" type ="text/css" href="styles/all.css" media="all"/>
   <link rel="stylesheet" type ="text/css" href="styles/feedback.css" media="all"/>
-
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Yrsa" rel="stylesheet">
 </head>
 
 <body>

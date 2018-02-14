@@ -5,8 +5,7 @@
   <meta charset="utf-8">
   <title>Ithaca Apple Harvest 2017</title>
   <link rel="stylesheet" type ="text/css" href="styles/all.css" media="all"/>
-</head>
-
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Yrsa" rel="stylesheet">
 <body>
   <?php
    include "includes/navigation.php";
@@ -24,7 +23,7 @@
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOWHgc0ohkcGNAceisJtHwt9tHCrd8qYklw7aNloVDzpQc6w/viewform">Performers</a>
 
   </div>
-  
+
   <?php
    include "includes/footer.php";
    ?>
