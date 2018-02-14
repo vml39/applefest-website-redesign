@@ -1,0 +1,44 @@
+/** feedback.php */
+#form{
+  width: 80%;
+  margin: 0 10% 20px 10%;
+}
+
+#feedback h1 {
+  text-align: center;
+}
+
+#feedbackresponse {
+  width: 80%;
+  margin: 10px 10%;
+}
+
+#feedbackresponse img{
+  width: 100%;
+}
+
+#formvendor2, #formperformer2 {
+  display: none;
+}
+
+input {
+  margin: 5px 0;
+}
+
+#comments{
+  width: 500px;
+  height: 200px;
+}
+
+.errorContainer {
+  color: #de5454;
+  border: 1px #de5454 solid;
+  font-size: 14px;
+  padding-left: 5px;
+  text-align: center;
+  display: inline-block;
+}
+
+.hiddenError {
+  display: none;
+}
